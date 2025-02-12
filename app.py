@@ -2,8 +2,9 @@ import streamlit as st
 
 st.title("Coders")
 st.write("Hello, welcome to the website!")
+! pip install  google.generativeai 
 import streamlit as st
-import google.generativeai as genai
+import google-generativeai as genai
 
 # Set up Google Generative AI (Gemini) API
 genai.configure(api_key="AIzaSyAc68E5Ja5I3k1xG1Fswp8btBUUoyqUvaI")
