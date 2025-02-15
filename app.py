@@ -1,5 +1,6 @@
 import streamlit as st
-pip install generativeai
+pip install google-generativeai
+
 st.title("Coders")
 st.write("Hello, welcome to the website!")
 
